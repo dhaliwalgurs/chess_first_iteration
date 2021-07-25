@@ -3,7 +3,9 @@ A two-player chess game.
 
 
 <h1>Current Features:</h1>
-
+  * apples
+  * oranges
+  * pears
 
 
 <h1>Features To Be Added:</h1>
