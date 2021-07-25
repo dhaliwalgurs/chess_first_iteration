@@ -30,12 +30,12 @@ Gameplay:
 </ul>
 UI: 
 <ul>
- <li>Display captured pieces</li>
-  <li>Display estimated material advantage</li>
+ <li>Display captured pieces.</li>
+  <li>Display estimated material advantage.</li>
 </ul>
 
 <h1>Future Extensions:</h1>
 <ul>
- <li>Code a rudimentary AI</li>
+ <li>Code a rudimentary AI.</li>
   <li>Change underlying implementation to speed up processing speed.</li>
 </ul>
