@@ -28,8 +28,11 @@ Gameplay:
  <li>Prevent players from moving out of turn.</li>
   <li>Allow piece to be deselected by reselecting piece.</li>
 </ul>
-
-
+UI: 
+<ul>
+ <li>Display captured pieces</li>
+  <li>Display estimated material advantage</li>
+</ul>
 
 <h1>Future Extensions:</h1>
 <ul>
