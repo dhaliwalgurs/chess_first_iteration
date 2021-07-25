@@ -5,13 +5,13 @@ A two-player chess game.
 
 <h1>Current Features:</h1>
 <ul>
-<li>Chess board created.</li>
- <li>JPEG images extracted and visible on UI.</li>
+<li>Interactable chess board.</li>
+ <li>JPEG images for pieces extracted and visible.</li>
   <li>Pieces are constrained to legal moves.</li>
    <li>Captures remove pieces.</li>
-    <li>Queen and king side castle move implemented.</li>
+    <li>Queen and king side castle moves implemented.</li>
      <li>Single castle allowed per player per game.</li>
-      <li>Pawns are automatically promoted to Queen.</li>
+      <li>Pawns are automatically promoted to Queens.</li>
 </ul>
 
 
