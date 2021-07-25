@@ -1,5 +1,5 @@
 # chess_first_iteration
-An interactive two-player chess game. MIT license, feel free to use as base.
+An interactive two-player chess game. (MIT license feel free to use as base).
 
 
 
