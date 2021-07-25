@@ -21,7 +21,7 @@ Moves:
 <ul>
  <li>Implement en passant move.</li>
   <li>Implement collision detection (pieces cannot move onto occupied squares, or through occupied squares).</li>
-   <li>Allow player to choose which piece to promote to.</li>
+   <li>Allow player to choose which piece a pawn promotes to.</li>
 </ul>
 Gameplay:
 <ul>
