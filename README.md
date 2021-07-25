@@ -19,9 +19,9 @@ A two-player chess game.
 <h1>TODO:</h1>
 Moves:
 <ul>
- <li>Allow player to choose which piece to promote to.</li>
-  <li>Implement en passant move.</li>
-   <li>Implement collision detection (pieces cannot move onto occupied squares, or through occupied squares).</li>
+ <li>Implement en passant move.</li>
+  <li>Implement collision detection (pieces cannot move onto occupied squares, or through occupied squares).</li>
+   <li>Allow player to choose which piece to promote to.</li>
 </ul>
 Gameplay:
 <ul>
