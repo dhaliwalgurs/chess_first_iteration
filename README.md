@@ -1,5 +1,5 @@
 # chess_first_iteration
-A two-player chess game.
+An interactive two-player chess game.
 
 
 
